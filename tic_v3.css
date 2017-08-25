@@ -1,0 +1,67 @@
+body{
+	background-color:black;
+}
+h1{
+	font-family: 'Luckiest Guy', cursive;
+}
+
+canvas{
+	
+  margin-top:5px;
+}
+
+header, h1 {
+  display:block;
+  margin:10px auto;
+  color:white;
+  text-align:center;
+}
+
+
+#startQuestion{
+	text-align:center;
+	color:white;
+}
+
+
+#buttons{
+	
+  margin:auto;
+  
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline- block;
+    font-size: 16px;
+	position:relative;
+	font-size:20px;
+}
+.notie-container {
+      box-shadow: none;
+	  font-family: 'Architects Daughter', cursive;
+	  font-size:35px;
+    }
+	
+#starter{
+	font-family: 'Architects Daughter', cursive;
+	text-align:center;
+	display:block;
+  position:relative;
+  color:white
+}
+footer{
+	font-family: 'Architects Daughter', cursive;
+	color:white;
+	margin-top:10px;
+	font-size:20px;
+
+}
+#game{
+	margin:auto;
+	text-align:center;
+}
